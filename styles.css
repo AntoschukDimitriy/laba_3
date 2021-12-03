@@ -1,0 +1,43 @@
+body {
+  background-color: #AFEEEE;
+  background-image: url(https://look.com.ua/pic/201209/1920x1080/look.com.ua-28428.jpg);
+  background-repeat: repeat-x;
+  color: black
+}
+
+h3 {
+  color: brown;
+  font-family: monospace;
+  font-weight: lighter;
+}
+
+h2 {
+  color: #2a555a;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+#dotes {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width:5px;
+}
+
+.fancy-border {
+  border: 3px dashed white;
+}
+
+ul {
+  color: brown;
+}
+
+td:hover {
+  cursor: pointer;
+  background-color: red
+}
+
+p {
+  color:white;
+  color:brown;
+}
